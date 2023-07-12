@@ -1,0 +1,85 @@
+
+
+body.impress-mouse-timeout {
+    cursor: none;
+}
+#impress-toolbar {
+    display: none;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #2D7CFA;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.primary {
+    color: #2D7CFA;
+}
+
+.f-title {
+    font-size: 30px;
+    text-align: center;
+}
+
+.f-body {
+    font-size: 20px;
+    text-indent: 10px !important;
+    line-height: -10px !important;
+}
+
+
+.icon-big {
+    font-size: 150px;
+    --ionicon-stroke-width: 12px;
+}
+
+#id5 b {
+    display: inline-block;
+    -webkit-transition: 0.5s;
+    -moz-transition:    0.5s;
+    -ms-transition:     0.5s;
+    -o-transition:      0.5s;
+    transition:         0.5s;
+}
+
+#id5.present .rotating {
+    transform:         rotate(-5deg);
+    transition-delay:         0.25s;
+}
+
+#id5.present .scale {
+    transform:         scale(1.2);
+    transition-delay:         0.5s;
+}
+
+#id6 b {
+    display: inline-block;
+    -webkit-transition: 0.5s;
+    -moz-transition:    0.5s;
+    -ms-transition:     0.5s;
+    -o-transition:      0.5s;
+    transition:         0.5s;
+}
+
+#id6.present .rotating {
+    transform:         rotate(-5deg);
+    transition-delay:         0.25s;
+}
+
+#id6.present .scale {
+    transform:         scale(1.2);
+    transition-delay:         0.5s;
+}
